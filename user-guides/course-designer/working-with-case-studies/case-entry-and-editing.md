@@ -1,7 +1,8 @@
 ---
+icon: file-medical
 description: >-
   This page gives you the basics for building and updating patient cases in
-  EdEHR. You’ll find quick guides for adding meds, lab results, and MRNs, plus
+  EdEHR. You'll find quick guides for adding meds, lab results, and MRNs, plus
   tips for switching roles and staying organized.
 ---
 
@@ -34,7 +35,7 @@ Click any item to jump straight to the guide you need.
 7. (Optional) If the medication isn’t in the library, document your process and notify your admin or support contact.
 
 {% hint style="info" %}
-Tip: For barcode scanning, always use the exact medication name and dose as in your institution’s drug library.
+**Tip:** For barcode scanning, always use the exact medication name and dose as in your institution’s drug library.
 {% endhint %}
 
 ***
@@ -54,7 +55,7 @@ Step-by-Step Guide:
 7. Save your changes.
 
 {% hint style="info" %}
-Tip: Make sure each lab or imaging result has a matching requisition for realism and completeness.
+**Tip:** Make sure each lab or imaging result has a matching requisition for realism and completeness.
 {% endhint %}
 
 ***
@@ -68,7 +69,7 @@ Step-by-Step Guide:
 3. Stick to a consistent format across your cases for easy tracking.
 
 {% hint style="info" %}
-Tip: Use a format that makes sense for your team and is easy to search or filter.
+**Tip:** Use a format that makes sense for your team and is easy to search or filter.
 {% endhint %}
 
 ***
@@ -82,5 +83,5 @@ Step-by-Step Guide:
 3. Sign out and back in as another role if you need to add documentation from a different perspective.
 
 {% hint style="info" %}
-Tip: This keeps your case study realistic and helps students see the workflow from multiple roles.
+**Tip:** This keeps your case study realistic and helps students see the workflow from multiple roles.
 {% endhint %}

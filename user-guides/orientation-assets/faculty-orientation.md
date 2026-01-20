@@ -1,3 +1,9 @@
+---
+icon: chalkboard-user
+description: >-
+  Best practices for planning and implementing faculty orientation to EdEHR.
+---
+
 # Faculty Orientation
 
 This guide outlines best practices for planning and implementing faculty orientation to edEHR. While originally developed with BCIT’s approach in mind, While originally developed with BCIT’s approach in mind, the following recommendations are adaptable to a variety of institutional contexts.&#x20;

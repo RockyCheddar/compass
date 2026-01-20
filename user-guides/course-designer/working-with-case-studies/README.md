@@ -1,5 +1,8 @@
 ---
 icon: hand-holding-medical
+description: >-
+  Overview of working with case studies in EdEHR, including access methods and
+  management options.
 ---
 
 # Working with Case Studies

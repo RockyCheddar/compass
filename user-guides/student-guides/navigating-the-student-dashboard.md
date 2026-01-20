@@ -1,5 +1,12 @@
+---
+icon: gauge
+description: >-
+  Overview of the student dashboard and how to navigate between courses and
+  activities.
+---
+
 # Navigating the Student Dashboard
 
-## What youll find on this page
+## What you'll find on this page
 
 * Where to&#x20;

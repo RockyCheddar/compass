@@ -1,10 +1,12 @@
 ---
 icon: triangle-exclamation
+description: >-
+  Solutions for common issues instructors may encounter in EdEHR.
 ---
 
 # Troubleshooting Common Issues
 
-### Student Access Problems
+### Student access problems
 
 If students can't access activities:
 
@@ -12,13 +14,13 @@ If students can't access activities:
 * Verify the student is properly enrolled in the LMS course
 * Check that the activity is available and not restricted
 
-### Evaluation Issues
+### Evaluation issues
 
 * **Can't see student submissions**: Ensure the work has been submitted by the student or use "Force submission"
 * **Changes to notes don't save**: Ensure you've clicked the Save button in the evaluation panel
 * **Can't navigate between students**: Check your browser for compatibility issues
 
-### Getting Help
+### Getting help
 
 * Consult the EdEHR documentation at edehr.org
 * Contact your institution's EdEHR administrator

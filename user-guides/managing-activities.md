@@ -1,21 +1,24 @@
 ---
 icon: clipboard-medical
+description: >-
+  Understanding and managing EdEHR activities, including activity page elements
+  and settings.
 ---
 
 # Managing Activities
 
-## Understanding Activities
+## Understanding activities
 
 An Activity is automatically created when a user clicks an LMS Activity. After this first click, all users who click that LMS Activity can access the EdEHR Activity. An EdEHR Course is also created automatically when needed.
 
 * When **students** click an LMS Activity, they're automatically added to the class list and taken to the charting area.
 * When **instructors** click the LMS Activity, they're taken to the EdEHR Activity page.
 
-### Activity Page Elements
+### Activity page elements
 
 <figure><img src=".gitbook/assets/Screenshot 2025-05-19 at 12.50.27 PM.png" alt=""><figcaption></figcaption></figure>
 
-#### The Acitivty Page Displays:
+#### The Activity Page Displays:
 
 * Title: EHR Orientation _(in this example)_
 * Tab to Class List
@@ -28,7 +31,7 @@ An Activity is automatically created when a user clicks an LMS Activity. After t
 * Student View&#x20;
 * Settings
 
-### Managing Activities
+### Managing activities
 
 As an instructor, you can:
 

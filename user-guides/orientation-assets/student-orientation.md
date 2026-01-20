@@ -1,3 +1,9 @@
+---
+icon: user-graduate
+description: >-
+  Best practices for planning and implementing student orientation to EdEHR.
+---
+
 # Student Orientation
 
 This guide outlines best practices for planning and implementing student orientation to EdEHR. While originally developed with BCIT’s approach in mind, the following recommendations are adaptable to a variety of institutional contexts. The goal is to ensure students are confident and prepared to use EdEHR as a learning tool throughout their academic program.

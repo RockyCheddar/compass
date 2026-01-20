@@ -1,5 +1,7 @@
 ---
 icon: person-chalkboard
+description: >-
+  Steps for accessing instructor functions in EdEHR through your LMS.
 ---
 
 # Accessing Instructor Functions

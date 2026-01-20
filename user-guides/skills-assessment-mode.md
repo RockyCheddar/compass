@@ -1,5 +1,8 @@
 ---
 icon: stopwatch
+description: >-
+  Using skills assessment mode to restrict students to selected activities for
+  timed exams.
 ---
 
 # Skills Assessment Mode
@@ -14,7 +17,7 @@ This page will walk you through
 
 ***
 
-## Enabling Skills Assessment
+## Enabling skills assessment
 
 {% stepper %}
 {% step %}
@@ -62,7 +65,7 @@ This page will walk you through
 {% endstep %}
 {% endstepper %}
 
-## Student Experience
+## Student experience
 
 When Skills Assessment Mode is active, students will:
 

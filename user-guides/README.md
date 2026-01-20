@@ -1,6 +1,13 @@
+---
+icon: hand-wave
+description: >-
+  Welcome to the EdEHR user guides, organized by role to help you find the most
+  relevant information for your needs.
+---
+
 # 👋 Welcome to User Guides
 
-## User Guides
+## User guides
 
 Welcome to the EdEHR User Guides section. These guides are organized by role to help you quickly find the most relevant information for your needs.
 
@@ -14,7 +21,7 @@ EdEHR serves several distinct user roles, each with different responsibilities a
 
 ***
 
-### Faculty/Instructor Guides
+### Faculty/instructor guides
 
 Faculty and instructors will find comprehensive resources for effectively incorporating EdEHR into their teaching:
 
@@ -30,7 +37,7 @@ Faculty and instructors will find comprehensive resources for effectively incorp
 
 ***
 
-### Student Guides
+### Student guides
 
 Students can learn how to effectively navigate and complete their EdEHR assignments:
 
@@ -42,7 +49,7 @@ Students can learn how to effectively navigate and complete their EdEHR assignme
 
 → Student Success Resources for tips on making the most of your EdEHR experience
 
-### Course Designer Guides
+### Course designer guides
 
 For educators and instructional designers creating content within EdEHR:
 
@@ -54,7 +61,7 @@ For educators and instructional designers creating content within EdEHR:
 
 → Instructional Design Strategies for best practices in creating effective EHR learning experiences
 
-### LMS Administrator Guides
+### LMS administrator guides
 
 Technical documentation for setting up and maintaining the EdEHR system:
 
@@ -66,7 +73,7 @@ Technical documentation for setting up and maintaining the EdEHR system:
 
 → Technical Implementation Resources for detailed architecture and integration documentation
 
-### Demo Mode Guides
+### Demo mode guides
 
 For those evaluating EdEHR for potential adoption:
 
@@ -78,16 +85,16 @@ For those evaluating EdEHR for potential adoption:
 
 → Implementation Planning Resources for guidance on moving from evaluation to adoption
 
-### Finding Specific Information
+### Finding specific information
 
-#### Navigation Tips
+#### Navigation tips
 
 1. **Role-Based Navigation**: Start with your primary role section above
 2. **Search Function**: Use the search bar at the top of the page to find specific topics
 3. **Related Links**: Each guide includes related links to relevant content
 4. **Implementation Connection**: Technical guides link to corresponding educational strategies
 
-#### Crossover Content
+#### Crossover content
 
 Some documentation spans multiple roles:
 
@@ -97,7 +104,7 @@ Some documentation spans multiple roles:
 
 When content applies to multiple roles, we've placed it in the section for the primary role responsible for that function, with cross-references from other relevant sections.
 
-### Educational Implementation Resources
+### Educational implementation resources
 
 For detailed guidance on implementing EdEHR as part of your curriculum:
 
@@ -108,7 +115,7 @@ For detailed guidance on implementing EdEHR as part of your curriculum:
 
 → Visit the Educational Implementation Section for comprehensive guidance on effective EdEHR integration
 
-### Getting Additional Help
+### Getting additional help
 
 If you cannot find the information you need in these guides:
 

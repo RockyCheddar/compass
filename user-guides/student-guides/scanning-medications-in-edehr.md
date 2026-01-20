@@ -1,3 +1,10 @@
+---
+icon: barcode
+description: >-
+  Guide to scanning medications using the EdEHR mobile app during simulation or
+  lab activities.
+---
+
 # Scanning Medications in edEHR
 
 This guide will walk you through the process of scanning medications using EdEHR during your simulation or lab activities. Follow these steps to make sure your documentation is accurate and complete.

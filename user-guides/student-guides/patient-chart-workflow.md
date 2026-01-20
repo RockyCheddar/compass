@@ -1,3 +1,10 @@
+---
+icon: clipboard-list
+description: >-
+  Step-by-step workflow for documenting in patient charts, from opening the
+  chart to submitting your work.
+---
+
 # Patient Chart Workflow
 
 This page walks you through a typical “charting session” from opening the patient to saving a verified report and getting ready to submit your work.

@@ -1,5 +1,8 @@
 ---
 icon: flag-checkered
+description: >-
+  Getting started with course designer mode, including role switching and
+  available features.
 ---
 
 # Getting Started as a course designer
@@ -12,7 +15,7 @@ What You’ll Learn
 * [How to enable Course Designer Mode](getting-started-as-a-course-designer.md#step-1-enable-course-designer-mode)
 * [What you can do as a Course Designer](getting-started-as-a-course-designer.md#what-you-can-do-as-a-course-designer)
   * [Navigating the Account Page](getting-started-as-a-course-designer.md#account-page)
-  * [Course Designer options for managing Case Studies ](getting-started-as-a-course-designer.md#once-in-course-designer-mode-youll-have-additional-permissions-to-create-and-manage-learning-objects)
+  * [Course Designer options for managing Case Studies ](getting-started-as-a-course-designer.md#once-in-course-designer-mode-you'll-have-additional-permissions-to-create-and-manage-learning-objects)
   * [Course Designer options for managing Learning Objects](getting-started-as-a-course-designer.md#course-designer-options-will-see-the-following-menu-items-for-learning-objectives)
 
 ***
@@ -28,9 +31,7 @@ When you first access EdEHR as an instructor, you have permissions to:
 
 
 {% hint style="warning" %}
-#### Be Cautious with Course Designer Mode:&#x20;
-
-Edits made in Course Designer Mode go live immediately and affect all activities or courses that use the case. Before editing a base case or learning object, double-check that you’re working on the right version and coordinate with your team if others are using the same content.
+**Warning:** Edits made in Course Designer Mode go live immediately and affect all activities or courses that use the case. Before editing a base case or learning object, double-check that you're working on the right version and coordinate with your team if others are using the same content.
 {% endhint %}
 
 
@@ -60,7 +61,7 @@ You should now see additional editing options and features for creating and mana
 If you don’t see the option to enable Course Designer Mode, contact your EdEHR administrator for access.
 
 {% hint style="warning" %}
-Enabling Course Designer Mode is the essential first step for any walkthrough or task in the Course Designer Guide. Before proceeding, make sure this mode is selected and active otherwise, you won’t have access to the tools and options described in the following sections.
+**Warning:** Enabling Course Designer Mode is the essential first step for any walkthrough or task in the Course Designer Guide. Before proceeding, make sure this mode is selected and active otherwise, you won’t have access to the tools and options described in the following sections.
 {% endhint %}
 {% endstep %}
 {% endstepper %}

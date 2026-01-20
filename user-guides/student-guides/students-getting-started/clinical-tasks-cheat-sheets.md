@@ -1,3 +1,9 @@
+---
+icon: list-check
+description: >-
+  Quick reference sheets for common clinical documentation tasks in EdEHR.
+---
+
 # Clinical Tasks Cheat-Sheets
 
 ## Clinical Tasks Cheat-Sheets

@@ -1,3 +1,9 @@
+---
+icon: file-pen
+description: >-
+  How to edit and update existing case studies in EdEHR.
+---
+
 # Editing Case Studies
 
 This page explains how to edit case studies in EdEHR. It covers updating case details and editing EHR content.&#x20;

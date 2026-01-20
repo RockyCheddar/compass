@@ -1,10 +1,13 @@
 ---
 icon: map-location
+description: >-
+  Overview of instructor tools for course management, learning objects, and
+  case studies.
 ---
 
 # Instructor Tools and Navigation
 
-### Course Management
+### Course management
 
 From the Course page, instructors can:
 
@@ -13,7 +16,7 @@ From the Course page, instructors can:
 * View enrolled activities
 * Access course statistics
 
-### Learning Objects Management
+### Learning objects management
 
 Instructors with Content Creator privileges can:
 
@@ -21,7 +24,7 @@ Instructors with Content Creator privileges can:
 * Edit existing Learning Objects
 * Link Learning Objects to Activities
 
-### Case Studies Access
+### Case studies access
 
 Instructors can:
 

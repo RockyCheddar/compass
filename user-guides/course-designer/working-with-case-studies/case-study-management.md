@@ -1,3 +1,10 @@
+---
+icon: folder-gear
+description: >-
+  Managing and organizing case studies in EdEHR, including viewing and
+  administration options.
+---
+
 # Case Study Management
 
 ### Case Study Management

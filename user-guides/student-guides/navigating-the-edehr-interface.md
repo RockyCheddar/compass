@@ -1,3 +1,10 @@
+---
+icon: compass
+description: >-
+  Guide to the five main sections of the EdEHR charting interface and how to
+  navigate between health record forms.
+---
+
 # Navigating the edEHR Interface
 
 ## Navigating the edEHR Interface
@@ -89,7 +96,7 @@ You will find options for&#x20;
 
 ### 4.  Health Record Navigation
 
-The left hand navigation is the primary source of navigating between different health record forms and content areas. You can search for specific forms or navigate through drop down categories to find the desired form.  You can also use the search bar to find what your looking for.&#x20;
+The left hand navigation is the primary source of navigating between different health record forms and content areas. You can search for specific forms or navigate through drop down categories to find the desired form.  You can also use the search bar to find what you're looking for.&#x20;
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-25/e8378e87-c982-4024-b3a1-4a9ba9698b95/ascreenshot.jpeg?tl_px=0,0\&br_px=1146,640\&force_format=jpeg\&q=100\&width=1120.0\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=113,186)
 

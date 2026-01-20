@@ -1,3 +1,10 @@
+---
+icon: gear
+description: >-
+  LMS administrator guide for connecting EdEHR to your learning management
+  system using LTI.
+---
+
 # Setting Up EdEHR in Your LMS
 
 ## Setting Up EdEHR in Your LMS (Admin Guide)

@@ -1,10 +1,12 @@
 ---
 icon: rectangle-history-circle-user
+description: >-
+  How to view and manage class lists for EdEHR activities.
 ---
 
 # Managing Class Lists
 
-## Viewing Your Class List
+## Viewing your class list
 
 All users access the EdEHR via their learning management system (LMS). The LMS provides authentication and authorization, determining whether a user is a student or instructor. When student users access the EdEHR, they are added to the class list for the EdEHR Activity.&#x20;
 

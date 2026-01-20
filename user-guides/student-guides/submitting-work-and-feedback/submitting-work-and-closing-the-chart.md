@@ -1,3 +1,10 @@
+---
+icon: check-circle
+description: >-
+  Steps for submitting your completed work and closing the patient chart in
+  EdEHR.
+---
+
 # Submitting Work & Closing the Chart
 
 ### Submitting Your Work and Closing the Chart

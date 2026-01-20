@@ -1,6 +1,13 @@
+---
+icon: magnifying-glass
+description: >-
+  How to find and understand your assignment instructions, status badges, and
+  feedback in EdEHR.
+---
+
 # Finding Student Instructions
 
-What You’ll Learn
+What You'll Learn
 
 * How to find your assignments and know what’s expected of you
 * What the different status badges mean for your work

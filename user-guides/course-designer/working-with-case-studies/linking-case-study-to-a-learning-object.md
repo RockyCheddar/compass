@@ -1,3 +1,9 @@
+---
+icon: link
+description: >-
+  How to connect case studies to learning objects in EdEHR.
+---
+
 # Linking Case Study to a Learning Object
 
 This page explains how to link a case study to a learning object in EdEHR. It outlines the steps for selecting and connecting your case study.

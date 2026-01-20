@@ -1,5 +1,8 @@
 ---
 icon: book-bible
+description: >-
+  Guide to evaluating student work, managing submissions, providing feedback,
+  and exporting evaluation data.
 ---
 
 # Evaluating Student Work
@@ -16,7 +19,7 @@ On this page, you can find:
 
 ***
 
-### Submission Status Management
+### Submission status management
 
 Only when a student's work is "submitted" can an instructor review and comment on it. Students normally submit their work, but instructors can toggle the submission status:
 
@@ -54,7 +57,7 @@ Apply to whole class Actions:&#x20;
 
 ***
 
-### Evaluation Methods
+### Evaluation methods
 
 A student's work can be evaluated using two methods; [Condensed View](evaluating-student-work.md#condensed-view-evaluate-button) or [EHR View.](evaluating-student-work.md#ehr-view-eval-in-ehr-button)&#x20;
 
@@ -87,7 +90,7 @@ A student's work can be evaluated using two methods; [Condensed View](evaluating
 
 ***
 
-### Evaluation Panel
+### Evaluation panel
 
 In both views, instructors see a persistent evaluation panel that includes:
 
@@ -101,7 +104,7 @@ In both views, instructors see a persistent evaluation panel that includes:
 
 ***
 
-### Downloading Evaluation Data
+### Downloading evaluation data
 
 From the Activity page:
 
@@ -113,7 +116,7 @@ From the Activity page:
    * LMS user ID
    * Instructor's evaluation notes
 
-### Importing Evaluation Notes to LMS
+### Importing evaluation notes to LMS
 
 Schools place students' grading information in the learning management system. It's possible to import the CSV download file and map the data into the LMS. Check your LMS manual for instructions on importing this CSV file into the grade book.
 

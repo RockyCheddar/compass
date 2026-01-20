@@ -71,7 +71,7 @@ There are two methods to create new Learning Objects:
 {% endstep %}
 
 {% step %}
-### Click on the learning objective you would like to dupliace or clone.&#x20;
+### Click on the learning objective you would like to duplicate or clone.&#x20;
 
 <div align="left"><img src="https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-21/c93141ba-582f-4798-b70d-b350872b4714/ascreenshot.jpeg?tl_px=0,0&#x26;br_px=2476,1384&#x26;force_format=jpeg&#x26;q=100&#x26;width=1120.0&#x26;wat=1&#x26;wat_opacity=0.7&#x26;wat_gravity=northwest&#x26;wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&#x26;wat_pad=266,228" alt="" width="563"></div>
 

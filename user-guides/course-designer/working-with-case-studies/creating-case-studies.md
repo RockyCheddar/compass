@@ -1,3 +1,9 @@
+---
+icon: file-plus
+description: >-
+  Step-by-step guide to creating new case studies in EdEHR.
+---
+
 # Creating Case Studies
 
 This page shows you how to create a new case study in EdEHR. It explains the steps for starting a case, entering details, and saving your work.

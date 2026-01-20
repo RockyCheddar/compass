@@ -25,7 +25,7 @@ icon: rectangle-history-circle-plus
 
 ***
 
-### For Effective Evaluation
+### For effective evaluation
 
 1. Establish clear rubrics for assessment
 2. Be consistent in feedback across all students

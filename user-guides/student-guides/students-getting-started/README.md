@@ -1,3 +1,10 @@
+---
+icon: rocket
+description: >-
+  Getting started guide for new EdEHR students, including how to access the
+  system and navigate the interface.
+---
+
 # Student's Getting Started
 
 Welcome to EdEHR! This guide will walk you through how to access the system, navigate the interface, and complete your activities.
@@ -53,8 +60,7 @@ Follow the three quick steps below and you’ll be charting in seconds.
 3. Click the link  →  EdEHR opens in a new browser tab with the correct role, course and patient already set.
 
 {% hint style="info" %}
-**TIP**\
-Bookmark your LMS page.  If you close EdEHR accidentally, simply re-open the activity link in your LMS.<br>
+**Tip:** Bookmark your LMS page. If you close EdEHR accidentally, simply re-open the activity link in your LMS.
 {% endhint %}
 
 ### How to Access EdEHR
@@ -81,7 +87,7 @@ The Student Dashboard is your central hub in EdEHR. Here, you can see all your c
 What you’ll see on the Dashboard:
 
 * **Application banner**: The bar at the top gives you quick access to tools, help, and navigation back to your LMS.
-  * You will find quick options to courses, acitivty, user settings, notepad (where you can jot notes) and exit to LMS options.&#x20;
+  * You will find quick options to courses, activity, user settings, notepad (where you can jot notes) and exit to LMS options.&#x20;
 * **Dashboard navigation**: Lets you jump between all your courses, see your current course, and select activities.
 * **Content Area:** Will display content such as Courses, Course Pages, and activities.&#x20;
 

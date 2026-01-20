@@ -1,4 +1,5 @@
 ---
+icon: compass-drafting
 description: >-
   This guide provides step-by-step instructions for course designers using the
   edEHR system. It focuses specifically on how to navigate and use the software

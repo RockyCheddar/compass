@@ -1,3 +1,10 @@
+---
+icon: folders
+description: >-
+  Organizing and managing learning objectives, including deletion and export
+  options.
+---
+
 # Managing Learning Objectives
 
 This page covers how to manage learning objectives in EdEHR. It explains how to delete objectives and export them for backup.

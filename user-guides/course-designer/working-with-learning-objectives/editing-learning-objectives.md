@@ -1,3 +1,10 @@
+---
+icon: pen-to-square
+description: >-
+  How to modify existing learning objectives in EdEHR, including updating
+  details and changing linked case studies.
+---
+
 # Editing Learning Objectives
 
 This page explains how to edit learning objectives in EdEHR. It covers changing details, updating the linked case study, and saving your changes.

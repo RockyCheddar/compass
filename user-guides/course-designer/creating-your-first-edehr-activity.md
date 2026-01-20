@@ -1,5 +1,7 @@
 ---
 icon: location-plus
+description: >-
+  Step-by-step guide to setting up your first EdEHR activity in your LMS.
 ---
 
 # Creating your first edEHR Activity
@@ -94,9 +96,9 @@ Before students can access your activity, you must connect it to content:
 #### Quick Checklist before you go live
 
 * [ ] LMS Activity created and configured&#x20;
-* [ ] Instructor has clicked the link to activate the edEHR acitivity
+* [ ] Instructor has clicked the link to activate the edEHR activity
 * [ ] Activity is connected to the right Learning Object
 * [ ] Activity description is clear for students&#x20;
-* [ ] Tested the link to ensure students land in the correct sport
+* [ ] Tested the link to ensure students land in the correct spot
 
 Once you’ve completed these steps, your students are ready to dive in and start learning with edEHR.

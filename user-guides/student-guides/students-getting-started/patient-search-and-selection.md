@@ -1,3 +1,9 @@
+---
+icon: user-magnifying-glass
+description: >-
+  Guide to searching for and selecting patients in EdEHR.
+---
+
 # Patient Search and Selection
 
 ## Patient Chart Workflow
@@ -43,7 +49,7 @@ In the EHR interface Click "Search"
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-27/184c63d5-56d2-4630-ba6b-baddaea8f1ba/ascreenshot.jpeg?tl_px=0,0\&br_px=2672,1493\&force_format=jpeg\&q=100\&width=1120.0\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=88,68)
 
-You can then search for the correct patient either by MRN or Patient name. Once you have search and found and selected the correct Patient. Select Open to open their patietn data in the EHR Interface.&#x20;
+You can then search for the correct patient either by MRN or Patient name. Once you have search and found and selected the correct Patient. Select Open to open their patient data in the EHR Interface.&#x20;
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-27/1272fced-e6af-42c6-826d-4fd23f11b351/ascreenshot.jpeg?tl_px=0,0\&br_px=2672,1493\&force_format=jpeg\&q=100\&width=1120.0\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=943,49)
 

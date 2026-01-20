@@ -1,3 +1,10 @@
+---
+icon: comment
+description: >-
+  How to view and understand instructor feedback on your submitted work in
+  EdEHR.
+---
+
 # Receiving Feedback
 
 After you submit your work, your instructor will review your chart and provide feedback. There are two possible outcomes:

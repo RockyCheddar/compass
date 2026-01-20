@@ -16,7 +16,7 @@ The Instructor Dashboard opens automatically when you launch an EdEHR activity l
 
 <figure><img src=".gitbook/assets/Instructor Dashboard 2.jpg" alt=""><figcaption></figcaption></figure>
 
-### Dashboard Components
+### Dashboard components
 
 The dashboard pages have three main sections:
 
