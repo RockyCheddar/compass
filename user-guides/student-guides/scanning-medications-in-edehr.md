@@ -9,61 +9,63 @@ description: >-
 
 This guide will walk you through the process of scanning medications using EdEHR during your simulation or lab activities. Follow these steps to make sure your documentation is accurate and complete.
 
-***
-
-### Step 1: Confirm Device Connections
+{% stepper %}
+{% step %}
+### Confirm device connections
 
 Before you start, make sure your keyboard and scanner are connected to the iPad via Bluetooth. If either device is in sleep mode, pressing any button will wake it up and reconnect.
 
-_Screenshot : Show Bluetooth settings on iPad with connected keyboard and scanner._
+_Screenshot: Show Bluetooth settings on iPad with connected keyboard and scanner._
+{% endstep %}
 
-***
-
-### Step 2: Open EdEHR
+{% step %}
+### Open EdEHR
 
 * Open the Chrome browser in Incognito Mode on your iPad.
 * Sign in to your Learning Hub account.
 * Select the appropriate case study for your session.
 
-_Screenshot : Show the EdEHR login page or Learning Hub case study selection._
+_Screenshot: Show the EdEHR login page or Learning Hub case study selection._
+{% endstep %}
 
-***
+{% step %}
+### Open the eMAR
 
-### Step 3: Open the eMAR
+Navigate to the eMAR (electronic Medication Administration Record) section within your case study.
 
-* Navigate to the eMAR (electronic Medication Administration Record) section within your case study.
+_Screenshot: Show the eMAR screen in EdEHR._
+{% endstep %}
 
-_Screenshot : Show the eMAR screen in EdEHR._
+{% step %}
+### Start the scanning process
 
-***
+When it's time to scan medications, click the BarCode button on the eMAR.
 
-### Step 4: Start the Scanning Process
+_Screenshot: Highlight the BarCode button on the eMAR screen._
+{% endstep %}
 
-* When it’s time to scan medications, click the BarCode button on the eMAR.
-
-_Screenshot : Highlight the BarCode button on the eMAR screen._
-
-***
-
-### Step 5: Scan Patient and Medication
+{% step %}
+### Scan patient and medication
 
 * A pop-up will appear.
 * First, select the field to scan the patient MRN (Medical Record Number).
-* Use your scanner to scan the patient’s armband QR code.
+* Use your scanner to scan the patient's armband QR code.
 * Next, select the scan medication field.
 * Scan the barcode on the medication package.
-* Click “Save” to confirm.
+* Click "Save" to confirm.
 
-_Screenshot : Show the pop-up for scanning MRN and medication, and the scanning process._
+_Screenshot: Show the pop-up for scanning MRN and medication, and the scanning process._
+{% endstep %}
 
-***
-
-### Step 6: Check Your Work
+{% step %}
+### Check your work
 
 * After saving, the medication you scanned will be highlighted on the eMAR.
 * Administer and document the medication as per your procedure.
 
-_Screenshot : Show the eMAR with the medication highlighted after scanning._
+_Screenshot: Show the eMAR with the medication highlighted after scanning._
+{% endstep %}
+{% endstepper %}
 
 ***
 

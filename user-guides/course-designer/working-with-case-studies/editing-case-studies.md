@@ -39,41 +39,59 @@ Only Content Creator users can edit Case Study data:
 
 ***
 
-## How To Edit Case Study Seed Properties
+## How to edit case study seed properties
 
+{% stepper %}
+{% step %}
+### Ensure Course Designer Mode is selected
 
-
-1\. So when we're over top of case studies, we're going to ensure course designer. Mode is selected.
+When viewing case studies, make sure Course Designer Mode is enabled.
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-23/87e2d63c-1fd2-46f6-9f2a-7ccaeb3f8e78/ascreenshot.jpeg?tl_px=0,0\&br_px=1376,769\&force_format=jpeg\&q=100\&width=1120.0\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=55,276)
+{% endstep %}
 
-2\. once course designer mode is selected we can choose the appropriate case study we want to edit in this case we'll edit aaron john's from here we have a series of options if we want to make quick edits we're going to click
+{% step %}
+### Select the case study to edit
+
+Choose the appropriate case study you want to edit (e.g., Aaron John's).
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-23/eb437e25-c7bd-4e13-a43f-5cb0486b0a94/ascreenshot.jpeg?tl_px=0,0\&br_px=1376,769\&force_format=jpeg\&q=100\&width=1120.0\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=277,188)
+{% endstep %}
 
-3\. In the case study page click on the <img src="../../.gitbook/assets/Settings.png" alt="" data-size="line"> icon to bring up property edit mode.&#x20;
+{% step %}
+### Open property edit mode
+
+In the case study page, click on the <img src="../../.gitbook/assets/Settings.png" alt="" data-size="line"> icon to bring up property edit mode.
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-23/002a5994-298e-4c36-b19a-db2b034eae08/ascreenshot.jpeg?tl_px=1295,0\&br_px=2156,480\&force_format=jpeg\&q=100\&width=860\&wat_scale=76\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=653,73)
+{% endstep %}
 
-This will allow you to make key seed edits to the case study.&#x20;
+{% step %}
+### Edit the case study properties
 
-You will be able to make changes to;&#x20;
+You can make changes to:
 
 * **Name**: Recommend using the simulated patient name as part of the case study name.
 * **Patient Data:** Activate the Patient Data dialog to establish the basics: patient name and age.
-* **Version**: Use the version to indicate if this case study has evolved from an earlier version. E.g. v 2.0 would say this case study has changed a lot since the original was created.
-* **Application Type**: EHR or LIS (Does this case study apply to clinical setting (EHR) or the medical laboratory (LIS)?)
+* **Version**: Use the version to indicate if this case study has evolved from an earlier version.
+* **Application Type**: EHR or LIS (clinical setting vs medical laboratory).
 * **Tags**: Use tags to categorize case studies.
-* **Description:** Describe the pedagogical goals for this case study here and use the "Faculty Notes" in the Learning Object to describe how to use the case study in class. Students will not see these notes.
-* **Creator Notes:** Use the creator notes field to describe how to manage the EHR content in the Case Study. Students will not see these notes.
+* **Description:** Describe the pedagogical goals (students will not see these notes).
+* **Creator Notes:** Describe how to manage the EHR content (students will not see these notes).
 * **Contributors**: A list of people who contributed to the EHR content.
-* **Optional - Import Case Study JSON File:** If you have a Case Study file that you or someone else saved then you can import the contents here. It is a great idea to periodically save your case study work in case you need to go back to an earlier version.
+* **Optional - Import Case Study JSON File:** Import a saved Case Study file.
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-23/f2171e20-cef2-4219-a55d-0182e61c2470/ascreenshot.jpeg?tl_px=52,0\&br_px=1772,961\&force_format=jpeg\&q=100\&width=1120.0\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=524,88)
+{% endstep %}
 
-After any changes have been made click Save to ensure they are saved. /
+{% step %}
+### Save your changes
+
+After any changes have been made, click Save to ensure they are saved.
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-23/970e4228-4bdc-47a1-bfcb-25660df34e0d/ascreenshot.jpeg?tl_px=1009,0\&br_px=2156,640\&force_format=jpeg\&q=100\&width=1120.0\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=539,39)
+{% endstep %}
+{% endstepper %}
 
 
 

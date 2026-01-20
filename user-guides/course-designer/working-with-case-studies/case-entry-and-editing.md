@@ -19,40 +19,84 @@ Click any item to jump straight to the guide you need.
 
 ***
 
-## Adding a Medication Record to a Case Study
+## Adding a medication record to a case study
 
-### Step-by-Step Guide:
+{% stepper %}
+{% step %}
+### Enter EdEHR in Course Designer Mode
+{% endstep %}
 
-1. Enter EdEHR in Course Designer Mode.
-2. Select the relevant case study (either via a linked activity or from the Case Studies menu).
-3. Sign in as the appropriate healthcare professional (e.g., Nurse for medication administration).
-4. Navigate to the medication orders section of the case.
-5. Add a new medication:
-   1. Use the standardized medication list/library if available.
-   2. Copy and paste the medication name directly from the list to ensure barcode compatibility.
-   3. Enter the dose, route, and any other required details.
-6. Save your changes.
-7. (Optional) If the medication isn’t in the library, document your process and notify your admin or support contact.
+{% step %}
+### Select the relevant case study
+
+Either via a linked activity or from the Case Studies menu.
+{% endstep %}
+
+{% step %}
+### Sign in as the appropriate healthcare professional
+
+For example, Nurse for medication administration.
+{% endstep %}
+
+{% step %}
+### Navigate to the medication orders section
+{% endstep %}
+
+{% step %}
+### Add a new medication
+
+* Use the standardized medication list/library if available.
+* Copy and paste the medication name directly from the list to ensure barcode compatibility.
+* Enter the dose, route, and any other required details.
+{% endstep %}
+
+{% step %}
+### Save your changes
+
+(Optional) If the medication isn't in the library, document your process and notify your admin or support contact.
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
-**Tip:** For barcode scanning, always use the exact medication name and dose as in your institution’s drug library.
+**Tip:** For barcode scanning, always use the exact medication name and dose as in your institution's drug library.
 {% endhint %}
 
 ***
 
-## Entering Lab or Imaging Results&#x20;
+## Entering lab or imaging results
 
-Step-by-Step Guide:
+{% stepper %}
+{% step %}
+### Open the relevant case study in Course Designer Mode
+{% endstep %}
 
-1. Open the relevant case study in Course Designer Mode.
-2. Sign in as the appropriate healthcare professional (e.g., Doctor for orders).
-3. Navigate to the patient chart.
-4. Go to Reports and Documents (or the equivalent section).
-5. Add a new lab or imaging requisition:
-6.
-   * Enter the order details (test type, date, etc.).
-   * Add the corresponding results in the appropriate field.
-7. Save your changes.
+{% step %}
+### Sign in as the appropriate healthcare professional
+
+For example, Doctor for orders.
+{% endstep %}
+
+{% step %}
+### Navigate to the patient chart
+{% endstep %}
+
+{% step %}
+### Go to Reports and Documents
+
+Or the equivalent section in your case study.
+{% endstep %}
+
+{% step %}
+### Add a new lab or imaging requisition
+
+* Enter the order details (test type, date, etc.).
+* Add the corresponding results in the appropriate field.
+{% endstep %}
+
+{% step %}
+### Save your changes
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
 **Tip:** Make sure each lab or imaging result has a matching requisition for realism and completeness.
@@ -60,13 +104,27 @@ Step-by-Step Guide:
 
 ***
 
-## Assigning or Editing MRNs&#x20;
+## Assigning or editing MRNs
 
-Step-by-Step Guide:
+{% stepper %}
+{% step %}
+### Locate the MRN field
 
-1. When creating or editing a case study, locate the MRN (Medical Record Number) field.
-2. Enter a unique identifier—for example, “12345T2W1” for Term 2, Week 1.
-3. Stick to a consistent format across your cases for easy tracking.
+When creating or editing a case study, find the MRN (Medical Record Number) field.
+{% endstep %}
+
+{% step %}
+### Enter a unique identifier
+
+For example, "12345T2W1" for Term 2, Week 1.
+{% endstep %}
+
+{% step %}
+### Stick to a consistent format
+
+Use the same format across your cases for easy tracking.
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
 **Tip:** Use a format that makes sense for your team and is easy to search or filter.
@@ -74,13 +132,27 @@ Step-by-Step Guide:
 
 ***
 
-## Switching User Roles for Documentation&#x20;
+## Switching user roles for documentation
 
-Step-by-Step Guide:
+{% stepper %}
+{% step %}
+### Sign in as the role you need
 
-1. While editing a case study, sign in as the role you need (e.g., Nurse, Doctor).
-2. Enter the relevant documentation (nursing notes, orders, etc.).
-3. Sign out and back in as another role if you need to add documentation from a different perspective.
+While editing a case study, sign in as the appropriate role (e.g., Nurse, Doctor).
+{% endstep %}
+
+{% step %}
+### Enter the relevant documentation
+
+Add nursing notes, orders, or other role-specific content.
+{% endstep %}
+
+{% step %}
+### Switch roles as needed
+
+Sign out and back in as another role if you need to add documentation from a different perspective.
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
 **Tip:** This keeps your case study realistic and helps students see the workflow from multiple roles.

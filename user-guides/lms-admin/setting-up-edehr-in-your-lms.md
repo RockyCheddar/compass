@@ -29,61 +29,84 @@ Before you start, make sure you have:
 
 ***
 
-### Step-by-Step: External Tool Configuration in Moodle
-
-<div align="left"><figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
+### External tool configuration in Moodle
 
 The following steps are for Moodle, but most LMS platforms have a similar process.
 
-1. **Log in** to your LMS as an administrator.
-2. Navigate to **Site Administration** (bottom left of the home screen).
-3. Select **Plugins** > **Activity Modules** > **External Tool**.
-4. Click **Manage tools** under External Tool.
+{% stepper %}
+{% step %}
+### Log in as an administrator
 
-***
+Log in to your LMS with administrator privileges.
 
-### Configure the Tool
+<div align="left"><figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
+{% endstep %}
+
+{% step %}
+### Navigate to Site Administration
+
+Go to the bottom left of the home screen and select **Site Administration**.
+{% endstep %}
+
+{% step %}
+### Open External Tool settings
+
+Select **Plugins** > **Activity Modules** > **External Tool**, then click **Manage tools**.
+{% endstep %}
+
+{% step %}
+### Configure the tool
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Fill in the following fields:
 
-* **Tool Name:** Choose a name your course designers will recognize (e.g., “EdEHR”).
+* **Tool Name:** Choose a name your course designers will recognize (e.g., "EdEHR").
 * **Tool Description:** Briefly describe what this connection does.
-* **Tool URL:** Enter the EdEHR API URL (ask your EdEHR admin if unsure; e.g.,\
-  `https://edehr.org/api/launch_lti`)
+* **Tool URL:** Enter the EdEHR API URL (ask your EdEHR admin if unsure; e.g., `https://edehr.org/api/launch_lti`)
 * **Consumer Key & Shared Secret:** Obtain these from your EdEHR admin.
-* **Default Launch Container:** Select “Existing window” or “New window.” _(Avoid the default “embedded” option.)_
+* **Default Launch Container:** Select "Existing window" or "New window." _(Avoid the default "embedded" option.)_
+{% endstep %}
 
-Click **Save** when finished.
+{% step %}
+### Save and notify
 
-Let your course designers know the tool is ready and provide them with the name you used.
+Click **Save** when finished. Let your course designers know the tool is ready and provide them with the name you used.
+{% endstep %}
+{% endstepper %}
 
 ***
 
 ## Blackboard Ultra
 
-### Adding EdEHR as an External Tool (LTI 1.1) in Blackboard Ultra
+### Adding EdEHR as an external tool (LTI 1.1) in Blackboard Ultra
 
 In Blackboard Ultra, an **LTI Placement** is what makes an external tool reusable by instructors. Once the placement is created, instructors will see _EdEHR_ listed in their **Content Market / Books & Tools**. They can then add it to any course without needing to configure keys or URLs themselves.
 
-#### Step 1 – Admin Panel
+{% stepper %}
+{% step %}
+### Access the Admin Panel
 
 1. Log in to Blackboard as an administrator.
 2. Go to **Admin Panel → Integrations → LTI Tool Providers**.
 3. Click **Register LTI 1.1 Tool Provider**.
+{% endstep %}
 
-#### Step 2 – Register the Tool Provider
+{% step %}
+### Register the tool provider
 
-1. **Tool Provider Domain**: enter `edehr.org`
-   * Blackboard uses this destination domain to decide when to send the EdEHR key/secret along with a launch.
-2. **Status**: set to **Approved**
-   * _Status_ determines whether Blackboard will allow outgoing launches to this domain. If not approved, launches will be blocked or prompt for confirmation.
-3. **Key** and **Secret**: use the values provided by EdEHR.
-4. **User Fields to Send**: enable **Name** only (do **not** select email).
-5. Save.
+Configure the following settings:
 
-#### Step 3 – Create a Placement
+* **Tool Provider Domain**: enter `edehr.org` (Blackboard uses this to decide when to send the EdEHR key/secret)
+* **Status**: set to **Approved** (determines whether launches are allowed)
+* **Key** and **Secret**: use the values provided by EdEHR
+* **User Fields to Send**: enable **Name** only (do **not** select email)
+
+Save your changes.
+{% endstep %}
+
+{% step %}
+### Create a placement
 
 1. After saving, click the EdEHR tool → **Manage Placements** → **Create Placement**.
 2. Enter:
@@ -93,19 +116,28 @@ In Blackboard Ultra, an **LTI Placement** is what makes an external tool reusabl
 3. **Placement Type**: select **Course content tool**.
 4. **Launch in New Window**: set to **Yes** (EdEHR must open full-window, not inside a frame).
 5. Save.
+{% endstep %}
 
-#### Step 4 – Instructor Use in Courses
+{% step %}
+### Instructor use in courses
 
-1. Instructors go into an Ultra course and open **+ Add Content → Content Market** or **Books & Tools**.
-2. They will see _EdEHR_ as an option.
-3. Selecting it adds the tool link into the course content.
+Instructors can now add EdEHR to their courses:
 
-#### Step 5 – Verify
+1. Go into an Ultra course and open **+ Add Content → Content Market** or **Books & Tools**.
+2. Select _EdEHR_ from the list.
+3. The tool link is added to the course content.
+{% endstep %}
 
-* Test as instructor and student:
-  * The tool opens in a new browser window.
-  * User name and course context are passed correctly.
-  * No email addresses are sent.
+{% step %}
+### Verify the setup
+
+Test as both instructor and student to confirm:
+
+* The tool opens in a new browser window.
+* User name and course context are passed correctly.
+* No email addresses are sent.
+{% endstep %}
+{% endstepper %}
 
 ***
 
