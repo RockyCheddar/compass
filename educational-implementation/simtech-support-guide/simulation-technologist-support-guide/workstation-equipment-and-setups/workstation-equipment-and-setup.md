@@ -7,9 +7,9 @@ icon: walker
 The setup of your simulation workstations should be tailored to your program, the number of students, and your specific EdEHR use case. Well-equipped stations make simulations smoother and more realistic. Here are some practical guidelines to help you design and equip your stations for effective simulation labs.
 
 {% hint style="success" %}
-#### How BCIT does Workstations
+#### Example: Flexible Workstation Approach
 
-As a point of reference, BCIT has found success by matching their station setups to their needs. They use full Workstations on Wheels for hands-on labs and partial setups for smaller sessions. This flexible approach helps ensure every simulation runs smoothly, no matter the group size or activity.
+Many institutions have found success by matching their station setups to their specific needs. For example, using full Workstations on Wheels for hands-on labs and partial setups for smaller sessions provides flexibility. This approach helps ensure every simulation runs smoothly, no matter the group size or activity.
 {% endhint %}
 
 

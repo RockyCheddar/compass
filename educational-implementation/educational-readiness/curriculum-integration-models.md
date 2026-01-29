@@ -4,7 +4,7 @@
 
 This guide explores practical models and strategies for integrating EdEHR into your curriculum. Whether you’re just starting out or looking to deepen your program’s use of digital health simulation, you’ll find examples, templates, and planning considerations to support a smooth rollout.
 
-> **Note:** The examples, templates, and lessons shared in this guide are drawn from the Bachelor of Science in Nursing (BSN) program at the British Columbia Institute of Technology (BCIT). While these resources reflect the experiences of a large, established program, the strategies and tools can be adapted to fit a variety of educational settings and disciplines.
+> **Note:** The examples, templates, and lessons shared in this guide are drawn from nursing programs and other health professions education institutions that have successfully implemented EdEHR. While these resources reflect diverse program experiences, the strategies and tools can be adapted to fit your institution's specific educational settings and disciplines.
 
 ***
 

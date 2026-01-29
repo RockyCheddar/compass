@@ -10,7 +10,7 @@ Welcome to the Educational Readiness hub for EdEHR implementation. This section 
 
 Here, you’ll find practical guides, frameworks, and tools designed to help curriculum leads, faculty, and support staff prepare for every stage of EdEHR adoption. From understanding the educational theories that shape our approach, to mapping out curriculum integration, to crafting assessment strategies and learning from real-world case studies, this section covers it all.
 
-The resources and examples provided are drawn from the Bachelor of Science in Nursing program at BCIT. While they reflect the experience of a large program, everything here can be adapted for your own context and needs.
+The resources and examples provided are drawn from nursing and health professions programs that have successfully implemented EdEHR. While they reflect diverse program experiences, everything here can be adapted for your own institutional context and needs.
 
 Explore the subpages for step-by-step guidance on:
 

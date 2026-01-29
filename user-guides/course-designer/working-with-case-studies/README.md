@@ -61,47 +61,9 @@ Fill in the following details;&#x20;
 
 ## Linking Case Study to a Learning Object
 
-After creating the basic case we need to link it to a learning object.&#x20;
+After creating a Case Study, you need to connect it to a Learning Object so students can access it through an activity.
 
-{% stepper %}
-{% step %}
-### Return to the Activity page via the sidebar navigation
-{% endstep %}
-
-{% step %}
-### Select the Learning Object
-
-<figure><img src="../../.gitbook/assets/Creating Learning Objects in EHR System - Step 3.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-### Click Properties at the top of the Learning Object Page.&#x20;
-
-<figure><img src="../../.gitbook/assets/Accessing Erin Johns COPD Learning Object - Step 6.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-### Select your new Case Study and save the form
-
-<figure><img src="../../.gitbook/assets/Accessing Erin Johns COPD Learning Object - Step 7.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-### Hit 'Save'&#x20;
-
-<figure><img src="../../.gitbook/assets/Accessing Erin Johns COPD Learning Object - Step 8.png" alt=""><figcaption></figcaption></figure>
-{% endstep %}
-
-{% step %}
-### Confirm the new case study is enabled on the learning Object
-
-<figure><img src="../../.gitbook/assets/Accessing Erin Johns COPD Learning Object - Step 9.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-{% endstepper %}
+For detailed step-by-step instructions, see: [Linking Case Study to a Learning Object](linking-case-study-to-a-learning-object.md)
 
 ***
 
