@@ -25,7 +25,13 @@ For your first EdEHR activity, less is more. Start with an easy assignment where
 
 ## Step 1: Create the LMS Activity
 
-The following instructions use Moodle as an example, but the process is similar in other LMS platforms:
+The following instructions use Moodle as an example. The process is similar in other LMS platforms, with these key differences:
+
+* **Moodle**: Look for "External tool" in the activity/resource list
+* **D2L (Brightspace)**: Use "External Learning Tools" or "LTI Link" from the Content menu
+* **Canvas**: Add an "External Tool" from the module or assignment options
+
+Regardless of platform, you'll need to select the preconfigured EdEHR tool that your LMS administrator has set up. If you don't see an EdEHR option, contact your IT or EdTech support team.
 
 {% stepper %}
 {% step %}
@@ -63,27 +69,40 @@ The following instructions use Moodle as an example, but the process is similar 
 
 ***
 
-## Step 2: Activate the Connection
+## Step 2: Initialize the EdEHR Activity (Instructor Must Go First)
 
-**This step is critical.**&#x20;
+**You must be the first person to click your new activity link** before any students access it. Here's why this matters:
 
-Click the LMS activity link you just created. This action generates the corresponding EdEHR activity and ensures your students get routed to the right place.
+When you (the instructor) click the LMS activity link for the first time, it triggers EdEHR to:
+1. Create a corresponding EdEHR Activity
+2. Register you as the instructor for this activity
+3. Generate a unique connection between your LMS course and EdEHR
+4. Prepare the activity to receive student submissions
+
+**What to do**: Simply click the LMS activity link you just created in Step 1. You'll be taken to EdEHR where you can complete Step 3.
 
 {% hint style="warning" %}
-**Important**: This step must be completed by an instructor before any student attempts to use the activity. The LMS passes a unique identifier for each LMS Activity to EdEHR, ensuring all users who click that link will access the same EdEHR Activity.
+**Critical**: If a student clicks the link before you do, they may be registered as the instructor, causing access and grading problems. Always test your activities yourself before making them visible to students.
 {% endhint %}
 
 ***
 
-## Step 3: Connect to a Learning Object
+## Step 3: Link Your Activity to a Learning Object
 
-Before students can access your activity, you must connect it to content:
+After completing Step 2 (clicking the activity link for the first time), you'll arrive at the "Unlinked Activity" page in EdEHR. This is where you connect your activity to actual patient case content.
 
-1. Click on your new activity link from the LMS
-2. You'll be taken to the "Unlinked Activity" page
-3. You have two options:
-   * **Option 1**: Connect to an existing Learning Object. Browse the list, select the one you want, and click connect. Confirm when prompted.
-   * **Option 2**: Create a new Learning Object. Click “Create new,” fill in the name, description, and select an initial case study. Save, then select your new object for the activity.
+**Choose one of these options**:
+
+* **Option 1 - Use existing content** (recommended for first activity):
+  1. Browse the list of available Learning Objects
+  2. Select one that matches your learning goals (e.g., "Erin Johns - General Assessment")
+  3. Click "Connect" and confirm when prompted
+
+* **Option 2 - Create new content** (for custom cases):
+  1. Click "Create new Learning Object"
+  2. Enter a name and description that students will see
+  3. Select a case study to associate with it
+  4. Save, then connect your new Learning Object to this activity
 
 {% hint style="danger" %}
 **Important**: Once an Activity is linked to a Learning Object, the link cannot be changed. If you make a mistake, you'll need to recreate the activity in your LMS and start again.

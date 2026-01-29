@@ -41,12 +41,6 @@ There are two methods to create new Learning Objects:
 {% endstep %}
 
 {% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
 #### Click the "Create new Learning Object" Magic-wand button in the top right
 
 <div align="left"><figure><img src="../../.gitbook/assets/Create a New Learning Object in Course Designer - Step 3.png" alt="" width="563"><figcaption></figcaption></figure></div>

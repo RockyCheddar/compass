@@ -6,15 +6,15 @@ This guide will walk you through the process of scanning medications using EdEHR
 
 ### Step 1: Confirm Device Connections
 
-Before you start, make sure your keyboard and scanner are connected to the iPad via Bluetooth. If either device is in sleep mode, pressing any button will wake it up and reconnect.
+Before you start, make sure your keyboard and scanner are connected to your mobile device via Bluetooth. If either device is in sleep mode, pressing any button will wake it up and reconnect.
 
-_Screenshot : Show Bluetooth settings on iPad with connected keyboard and scanner._
+_Screenshot : Show Bluetooth settings on mobile device with connected keyboard and scanner._
 
 ***
 
 ### Step 2: Open EdEHR
 
-* Open the Chrome browser in Incognito Mode on your iPad.
+* Open your web browser in Incognito/Private Mode on your mobile device (tablet or phone).
 * Sign in to your Learning Hub account.
 * Select the appropriate case study for your session.
 

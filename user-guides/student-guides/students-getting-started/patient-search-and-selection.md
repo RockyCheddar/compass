@@ -1,8 +1,14 @@
-# Patient Search and Selection
+# Finding and Managing Patient Charts
+
+_How to search for, select, and create patient records in EdEHR_
 
 ## Patient Chart Workflow
 
-This page walks you through a typical “charting session” from opening the patient to saving a verified report and getting ready to submit your work.
+This page walks you through a typical "charting session" from opening the patient to saving a verified report and getting ready to submit your work.
+
+{% hint style="info" %}
+**Troubleshooting Browser Extensions**: If you use password managers like 1Password, their browser extension overlays may appear over search fields or forms in EdEHR. To prevent interference, you can temporarily disable the extension for the EdEHR site, or click outside the overlay to dismiss it and continue working.
+{% endhint %}
 
 ***
 

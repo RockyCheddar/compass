@@ -8,7 +8,7 @@ This section highlights practical examples and lessons learned from integrating 
 
 ### Example 1: Progressive Integration Across Program Terms
 
-BSN at BCIT used a mapped rollout plan to introduce EdEHR in stages. Starting with Level 1 (data collection only) in early terms, they gradually advanced to Level 2 (data entry and medication administration) and Level 3 (full feedback and evaluation) in later terms. This scaffolded approach allowed faculty and students to build confidence while aligning with curriculum goals and clinical realities.
+A large nursing program used a mapped rollout plan to introduce EdEHR in stages. Starting with Level 1 (data collection only) in early terms, they gradually advanced to Level 2 (data entry and medication administration) and Level 3 (full feedback and evaluation) in later terms. This scaffolded approach allowed faculty and students to build confidence while aligning with curriculum goals and clinical realities.
 
 **Key takeaways:**
 

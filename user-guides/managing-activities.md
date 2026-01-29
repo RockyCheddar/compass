@@ -37,15 +37,15 @@ As an instructor, you can:
 3. Review the connected Learning Object
 4. Access the class list to monitor student progress
 
-<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 11.png" alt=""><figcaption>Navigating to the Learning Object link on the Activity page</figcaption></figure>
 
-<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 12.png" alt=""><figcaption>Selecting a Learning Object to link to your Activity</figcaption></figure>
 
-<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 13.png" alt=""><figcaption>Reviewing the Case Study details in the Learning Object</figcaption></figure>
 
-<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 14.png" alt=""><figcaption>Confirming the Learning Object connection</figcaption></figure>
 
-<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Accessing EHR Demo for Student Learning Activities - Step 15.png" alt=""><figcaption>Activity page showing the successfully linked Learning Object</figcaption></figure>
 
 
 

@@ -22,4 +22,12 @@ Once you’ve finished entering all required information in the patient chart, i
 
 
 
-That’s it. Your chart is now in the hands of your instructor who can review your work. If you want to check on your submission or see feedback, just return to the Activity page at any time.
+That's it. Your chart is now in the hands of your instructor who can review your work. If you want to check on your submission or see feedback, just return to the Activity page at any time.
+
+{% hint style="warning" %}
+**Important: Post-Submission Editing**
+
+Once you click **Confirm** and submit your work, the chart becomes locked and you will **not be able to make further edits**. Make sure all your entries are complete and accurate before submitting.
+
+If your instructor reopens the activity for revisions (indicated by a status change on the Activity page), you will regain editing access to make corrections and resubmit.
+{% endhint %}

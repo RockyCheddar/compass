@@ -4,7 +4,7 @@
 
 Welcome to the Pedagogical Frameworks guide for EdEHR implementation. This page outlines the core educational theories and models that inform how EdEHR is used to support learning in simulated and clinical environments. Understanding these frameworks will help you design, deliver, and evaluate EdEHR activities that truly enhance student learning.
 
-> **Note:** The examples, templates, and lessons shared in this guide are drawn from the Bachelor of Science in Nursing (BSN) program at the British Columbia Institute of Technology (BCIT). While these resources reflect the experiences of a large, established program, the strategies and tools can be adapted to fit a variety of educational settings and disciplines.
+> **Note:** The examples, templates, and lessons shared in this guide are drawn from nursing programs and other health professions education institutions that have successfully implemented EdEHR. While these resources reflect diverse program experiences, the strategies and tools can be adapted to fit your institution's specific educational settings and disciplines.
 
 ***
 

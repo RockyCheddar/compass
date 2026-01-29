@@ -4,7 +4,7 @@
 
 This guide outlines practical strategies for assessing student learning and performance within EdEHR activities. By aligning assessment with your curriculum’s competencies and learning outcomes, you’ll ensure students are developing essential skills in digital documentation, clinical judgment, and informatics.
 
-> **Note:** The examples, templates, and lessons shared in this guide are drawn from the Bachelor of Science in Nursing (BSN) program at the British Columbia Institute of Technology (BCIT). While these resources reflect the experiences of a large, established program, the strategies and tools can be adapted to fit a variety of educational settings and disciplines.
+> **Note:** The examples, templates, and lessons shared in this guide are drawn from nursing programs and other health professions education institutions that have successfully implemented EdEHR. While these resources reflect diverse program experiences, the strategies and tools can be adapted to fit your institution's specific educational settings and disciplines.
 
 ***
 

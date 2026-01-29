@@ -10,6 +10,10 @@ This guide is for faculty and simulation techs responsible for preparing medicat
 
 To walk you through creating, labeling, and verifying barcodes for medications and patient armbands, so your learners can scan and document medications just like they would in a real clinical setting.
 
+{% hint style="info" %}
+**Understanding Patient QR Codes**: Each patient armband QR code is linked to that patient's Medical Record Number (MRN) in EdEHR. The QR code itself encodes the MRN, which EdEHR uses to look up the complete patient record (including name, DOB, allergies, etc.). For scanning to work correctly, the MRN encoded in the QR code must exactly match the MRN of the patient in your EdEHR case study. The patient name printed on the armband label is for visual confirmation by students but is not part of the scannable data.
+{% endhint %}
+
 #### Who Should Use This Guide
 
 * Simulation coordinators and faculty
@@ -42,7 +46,8 @@ To walk you through creating, labeling, and verifying barcodes for medications a
 {% step %}
 ### Create Patient Armbands
 
-* Print and assemble armband labels for each patient. The barcode should be based on the patient’s unique identifier (such as MRN, name, term, and session).
+* Print and assemble armband labels for each patient. The QR code encodes the patient's MRN (Medical Record Number), which EdEHR uses to identify the patient record.
+* Include the patient's name, MRN, and other identifiers (term, session) on the printed label for visual reference, but remember only the MRN in the QR code is scanned.
 * Make sure armbands are durable enough for repeated use during simulation sessions.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2025-07-07 at 12.47.29 PM.png" alt="" width="218"><figcaption></figcaption></figure></div>

@@ -110,15 +110,13 @@ Many pages use editable forms: click **Edit form**, make changes, then **Save** 
 
 1\. Click "Edit form"
 
-2\. Click "Edit form"
-
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-25/71e63656-c776-4bf5-a927-fa80fe8bedc3/ascreenshot.jpeg?tl_px=298,0\&br_px=1674,769\&force_format=jpeg\&q=100\&width=1120.0\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=1014,160)
 
-3\. Click this field.
+2\. Click the field you want to edit
 
-4\. Type "Mary Mary"
+3\. Type your changes (e.g., "Mary Mary")
 
-5\. Click "Save"
+4\. Click "Save"
 
 ![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-06-25/0c49d011-0d85-45ad-98e6-73760f99af22/ascreenshot.jpeg?tl_px=298,0\&br_px=1674,769\&force_format=jpeg\&q=100\&width=1120.0\&wat=1\&wat_opacity=0.7\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png\&wat_pad=928,156)
 
